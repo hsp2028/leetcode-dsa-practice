@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
