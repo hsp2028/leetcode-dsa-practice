@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0394-decode-string) |
 ## Math
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0189-rotate-array) |
 ## Array
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0394-decode-string) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
