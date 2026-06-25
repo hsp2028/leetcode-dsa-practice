@@ -30,5 +30,22 @@ class Solution {
             }
         }
         return list1;
+        
+        // Bruteforce Solution -> TLE Problem
+        // Set<List<Integer>> list = new HashSet<>();
+        // int n = nums.length;
+        // for(int i=0; i<n; i++){
+        //     Set<Integer> set = new HashSet<>();
+        //     for(int j=i+1; j<n; j++){
+        //         int kth = -(nums[i]+nums[j]);
+        //         if(set.contains(kth)){
+        //             List<Integer> temp = Arrays.asList(nums[i], nums[j], kth);
+        //             Collections.sort(temp);
+        //             list.add(temp);
+        //         }
+        //         set.add(nums[j]);
+        //     }
+        // }
+        // return new ArrayList<>(list);
     }
 }
