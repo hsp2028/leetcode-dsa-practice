@@ -16,7 +16,7 @@ class Solution {
         // }
         // return k;
 
-        // Optimal Solution
+        // Practice Solution
 
         int n=nums.length;
         int k=1, i=0, j=i+1;
