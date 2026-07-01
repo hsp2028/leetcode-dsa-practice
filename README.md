@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
