@@ -10,6 +10,7 @@ class Solution {
     public boolean checkInclusion(String s1, String s2) {
         int n = s1.length();
         int m = s2.length();
+        if(m<n) return false;
         int[] arr = new int[26];
         for(int i=0; i<n; i++){
             arr[s1.charAt(i)-'a']++;
