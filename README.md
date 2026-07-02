@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Matrix
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -102,5 +104,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0567-permutation-in-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
