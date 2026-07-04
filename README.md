@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0394-decode-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0394-decode-string) |
 ## Recursion
