@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0904-fruit-into-baskets) |
+| [1470-shuffle-the-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Matrix
 |  |
