@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0162-find-peak-element) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0053-maximum-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0046-permutations) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
