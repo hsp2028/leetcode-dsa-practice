@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0162-find-peak-element) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0567-permutation-in-string) |
 ## Stack
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
