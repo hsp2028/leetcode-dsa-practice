@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1470-shuffle-the-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0844-backspace-string-compare) |
+| [0977-squares-of-a-sorted-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
