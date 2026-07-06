@@ -1,31 +1,36 @@
 class Solution {
-    public long bananaEatenAtSpeedK(int n, int[] arr, int h){
-        long count=0;
-        for(int i=0; i<arr.length; i++){
-            count += ((long)arr[i]+n-1)/n;
-            if(count>h){
-                return count;
-            }
-        }
-        return count;
-    }
     public int minEatingSpeed(int[] piles, int h) {
-        int n = piles.length;
-        int k = 0;
-        int maxE = Integer.MIN_VALUE;
-        for(int i=0; i<n; i++){
-            maxE = Math.max(maxE, piles[i]);
-        }
-        int i=1, j=maxE;
-        int ans = 0;
-        while(i<=j){
-            int mid = i+(j-i)/2;
-            if(bananaEatenAtSpeedK(mid, piles, h)<=h){
-                ans = mid;
-                j = mid-1;
+        int maxE = 0;
+        
+        // Find the maximum pile size (upper bound)
+        for (int pile : piles) {
+            if (pile > maxE) {
+                maxE = pile;
             }
-            else{
-                i = mid+1;
+        }
+        
+        int i = 1, j = maxE;
+        int ans = maxE;
+        
+        // Inlined binary search to remove method call overhead
+        while (i <= j) {
+            int mid = i + (j - i) / 2;
+            long count = 0;
+            boolean possible = true;
+            
+            for (int pile : piles) {
+                count += ((long) pile + mid - 1) / mid;
+                if (count > h) {
+                    possible = false;
+                    break; // Early exit: current speed 'mid' is too slow
+                }
+            }
+            
+            if (possible) {
+                ans = mid;
+                j = mid - 1; // Try to find a smaller speed
+            } else {
+                i = mid + 1; // Speed is too slow, increase it
             }
         }
         return ans;
