@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -279,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0239-sliding-window-maximum) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
