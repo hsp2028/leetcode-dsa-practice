@@ -1,8 +1,11 @@
 class Solution {
-    public long bananaEatenAtSpeedK(int n, int[] arr){
+    public long bananaEatenAtSpeedK(int n, int[] arr, int h){
         long count=0;
         for(int i=0; i<arr.length; i++){
             count += ((long)arr[i]+n-1)/n;
+            if(count>h){
+                return count;
+            }
         }
         return count;
     }
@@ -17,7 +20,7 @@ class Solution {
         int ans = 0;
         while(i<=j){
             int mid = i+(j-i)/2;
-            if(bananaEatenAtSpeedK(mid, piles)<=h){
+            if(bananaEatenAtSpeedK(mid, piles, h)<=h){
                 ans = mid;
                 j = mid-1;
             }
