@@ -17,12 +17,13 @@ class Solution {
         int divisor = Integer.MAX_VALUE;
         while(l<=r){
             int mid = l+(r-l)/2;
-            if(sumOfDivisionsBy(mid, nums)<=threshold){
-                divisor = mid;
-                r = mid-1;
+            if(sumOfDivisionsBy(mid, nums)>threshold){
+                l = mid+1;
             }
             else{
-                l = mid+1;
+                
+                divisor = mid;
+                r = mid-1;
             }
         }
         return divisor;
