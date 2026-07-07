@@ -17,7 +17,6 @@ class Solution {
         int divisor = Integer.MAX_VALUE;
         while(l<=r){
             int mid = l+(r-l)/2;
-            System.out.println(mid);
             if(sumOfDivisionsBy(mid, nums)<=threshold){
                 divisor = mid;
                 r = mid-1;
