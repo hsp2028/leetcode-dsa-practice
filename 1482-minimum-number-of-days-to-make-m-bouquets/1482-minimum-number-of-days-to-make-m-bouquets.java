@@ -22,11 +22,13 @@ class Solution {
             return -1;
         }
         int maxD = Integer.MIN_VALUE;
+        int minD = Integer.MAX_VALUE;
         int minDay = Integer.MAX_VALUE;
         for(int i=0; i<n; i++){
+            minD = Math.min(minD, bloomDay[i]);
             maxD = Math.max(maxD, bloomDay[i]);
         }
-        int i=1, j=maxD;
+        int i=minD, j=maxD;
         while(i<=j){
             int mid = i+(j-i)/2;
             if(numberOfBouqutes(bloomDay, mid, k)>=m){
