@@ -10,7 +10,9 @@ class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
         int l=1, r=Integer.MIN_VALUE;
         for(int i=0; i<nums.length; i++){
-            r = Math.max(r, nums[i]);
+            if(r<nums[i]){
+                r = nums[i];
+            }
         }
         int divisor = Integer.MAX_VALUE;
         while(l<=r){
