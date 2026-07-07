@@ -2,7 +2,7 @@ class Solution {
     private int sumOfDivisionsBy(int divisor, int[] nums){
         int count = 0;
         for(int i=0; i<nums.length; i++){
-            count += (long) Math.ceil((double)nums[i]/divisor);
+            count += (long) (nums[i]+divisor-1)/divisor;
         }
         System.out.println();
         return count;
