@@ -26,9 +26,14 @@ class Solution {
         int minDay = Integer.MAX_VALUE;
         for(int i=0; i<n; i++){
             // minD = Math.min(minD, bloomDay[i]);
-            maxD = Math.max(maxD, bloomDay[i]);
+            if(minD>bloomDay[i]){
+                minD = bloomDay[i];
+            }
+            if(maxD<bloomDay[i]){
+                maxD = bloomDay[i];
+            }
         }
-        int i=1, j=maxD;
+        int i=minD, j=maxD;
         while(i<=j){
             int mid = i+(j-i)/2;
             if(numberOfBouqutes(bloomDay, mid, k)>=m){
