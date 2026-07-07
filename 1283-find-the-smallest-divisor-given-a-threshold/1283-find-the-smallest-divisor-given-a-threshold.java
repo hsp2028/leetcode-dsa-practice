@@ -13,7 +13,7 @@ class Solution {
                 r = nums[i];
             }
         }
-        int divisor = r;
+        int divisor = Integer.MAX_VALUE;
         while(l<=r){
             int mid = l+(r-l)/2;
             if(sumOfDivisionsBy(mid, nums)<=threshold){
