@@ -19,7 +19,7 @@ class Solution {
             int mid = l+(r-l)/2;
             System.out.println(mid);
             if(sumOfDivisionsBy(mid, nums)<=threshold){
-                divisor = Math.min(mid, divisor);
+                divisor = mid;
                 r = mid-1;
             }
             else{
