@@ -22,8 +22,6 @@ class Solution {
         }
         int low = maxE;
         int high = sum;
-        System.out.println(low);
-        System.out.println(high);
         int ans = 0;
         while(low<=high){
             int mid = low+(high-low)/2;
