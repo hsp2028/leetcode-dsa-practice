@@ -4,11 +4,11 @@ class Solution {
         int n = matrix[0].length;
         int row = 0, col = n-1;
         while(row<m && col>=0){
-            int current = matrix[row][col];
-            if(current == target){
+            // int current = matrix[row][col];
+            if(matrix[row][col] == target){
                 return true;
             }
-            else if(current>target){
+            else if(matrix[row][col]>target){
                 col--;
             }
             else{
