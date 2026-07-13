@@ -325,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0278-first-bad-version) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
