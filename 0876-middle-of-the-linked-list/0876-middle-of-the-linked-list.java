@@ -17,20 +17,23 @@ class Solution {
             temp = temp.next;
         }
         temp = head;
-        if(count%2 != 0){
-            for(int i=0; i<(count/2); i++){
-                temp = temp.next;
-            }
-            head = temp;
-            return head;
+        // if(count%2 != 0){
+        //     for(int i=0; i<(count/2); i++){
+        //         temp = temp.next;
+        //     }
+        //     head = temp;
+        //     return head;
+        // }
+        // else{
+        //     for(int i=0; i<(count/2); i++){
+        //         temp = temp.next;
+        //     }
+        //     head = temp;
+        //     return head;
+        // }
+        for(int i=0; i<(count/2); i++){
+            temp = temp.next;
         }
-        else{
-            for(int i=0; i<(count/2); i++){
-                temp = temp.next;
-            }
-            head = temp;
-            return head;
-        }
-        // return head;
+        return temp;
     }
 }
