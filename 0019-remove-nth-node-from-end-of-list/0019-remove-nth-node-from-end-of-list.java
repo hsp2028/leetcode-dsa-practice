@@ -18,9 +18,9 @@ class Solution {
             l++;
             temp = temp.next;
         }
-        if(l==1){
-            return null;
-        }
+        // if(l==1){
+        //     return null;
+        // }
         if(l==n){
             return head.next;
         }
