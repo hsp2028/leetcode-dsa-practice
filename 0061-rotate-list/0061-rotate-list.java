@@ -44,17 +44,14 @@ class Solution {
         }
 
         ListNode temp = head;
-        int count = 0;
-        ListNode prev = null;
-        while(temp != null){
+        int count = 1;
+        while(temp.next != null){
             count++;
-            prev = temp;
             temp = temp.next;
         }
-        prev.next = head;
+        temp.next = head;
         k = k%count;
         int n = count-k;
-        temp = prev;
 
         for(int i=0; i<n; i++){
             temp = temp.next;
