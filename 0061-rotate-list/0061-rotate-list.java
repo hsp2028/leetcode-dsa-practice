@@ -10,29 +10,59 @@
  */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        if(head==null || head.next==null){
+        
+        // Bruteforce Solution
+        // if(head==null || head.next==null){
+        //     return head;
+        // }
+        
+        // ListNode start = head;
+        // ListNode temp = head;
+        // int count = 0;
+        // while(temp!=null){
+        //     count++;
+        //     temp = temp.next;
+        // }
+        // k = k%count;
+        // temp = head;
+        // for(int i=0; i<k; i++){
+        //     ListNode prev = null;
+        //     while(temp.next != null){
+        //         prev = temp;
+        //         temp = temp.next;
+        //     }
+        //     temp.next = start;
+        //     start = temp;
+        //     prev.next = null;
+        // }
+        // return temp;
+
+        // Optimal Solution
+
+        if(head == null || head.next == null){
             return head;
         }
-        
-        ListNode start = head;
+
         ListNode temp = head;
         int count = 0;
-        while(temp!=null){
+        ListNode prev = null;
+        while(temp != null){
             count++;
+            prev = temp;
             temp = temp.next;
         }
+        System.out.println(count);
+        prev.next = head;
         k = k%count;
-        temp = head;
-        for(int i=0; i<k; i++){
-            ListNode prev = null;
-            while(temp.next != null){
-                prev = temp;
-                temp = temp.next;
-            }
-            temp.next = start;
-            start = temp;
-            prev.next = null;
+        int n = count-k;
+        System.out.println(n);
+        temp = prev;
+
+        for(int i=0; i<n; i++){
+            temp = temp.next;
         }
-        return temp;
+        head = temp.next;
+        temp.next = null;
+        return head;
     }
 }
