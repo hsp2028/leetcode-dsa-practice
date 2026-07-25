@@ -1,37 +1,35 @@
-
 class MyStack {
-    private Queue<Integer> q1 = new LinkedList<>();
-    private Queue<Integer> q2 = new LinkedList<>();
-    private int topElement;
+    Queue<Integer> q;
 
+    public MyStack() {
+        q = new LinkedList();
+    }
+    
     public void push(int x) {
-        q1.add(x);
-        topElement = x; // Track top element for O(1) top() reads
+        q.add(x);
+        for(int i=0; i<q.size()-1; i++){
+            q.add(q.remove());
+        }
     }
     
     public int pop() {
-        // Move all elements except the last one to q2
-        while (q1.size() > 1) {
-            topElement = q1.remove();
-            q2.add(topElement);
-        }
-        int removed = q1.remove(); // The last element is the LIFO target
-        
-        // Swap the queues
-        Queue<Integer> temp = q1;
-        q1 = q2;
-        q2 = temp;
-        
-        return removed;
+        return q.remove();
     }
     
-    // O(1) Time (due to tracking variable)
     public int top() {
-        return topElement;
+        return q.peek();
     }
     
-    // O(1) Time
     public boolean empty() {
-        return q1.isEmpty();
+        return q.isEmpty();
     }
 }
+
+/**
+ * Your MyStack object will be instantiated and called as such:
+ * MyStack obj = new MyStack();
+ * obj.push(x);
+ * int param_2 = obj.pop();
+ * int param_3 = obj.top();
+ * boolean param_4 = obj.empty();
+ */
