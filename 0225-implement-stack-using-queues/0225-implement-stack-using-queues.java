@@ -1,18 +1,14 @@
-import java.util.LinkedList;
-import java.util.Queue;
 
 class MyStack {
     private Queue<Integer> q1 = new LinkedList<>();
     private Queue<Integer> q2 = new LinkedList<>();
     private int topElement;
 
-    // O(1) Time
     public void push(int x) {
         q1.add(x);
         topElement = x; // Track top element for O(1) top() reads
     }
     
-    // O(N) Time
     public int pop() {
         // Move all elements except the last one to q2
         while (q1.size() > 1) {
