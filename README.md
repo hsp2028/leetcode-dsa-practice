@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0844-backspace-string-compare) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0707-design-linked-list) |
 ## Merge Sort
 |  |
