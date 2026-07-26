@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0645-set-mismatch) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0645-set-mismatch) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
