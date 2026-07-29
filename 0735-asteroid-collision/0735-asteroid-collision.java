@@ -26,7 +26,10 @@ class Solution {
         for(int num : stack){
             list.add(num);
         }
-        int[] res = list.stream().mapToInt(Integer::intValue).toArray();
+        int[] res = new int[list.size()];
+        for(int i=0; i<list.size(); i++){
+            res[i] = list.get(i);
+        }
         return res;
     }
 }
