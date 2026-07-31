@@ -18,20 +18,20 @@ class Solution {
 
         // Practice Solution
 
-        int n=nums.length;
-        int k=1, i=0, j=i+1;
-        while(i<n && j<n){
-            while(j<n && nums[j] == nums[i]){
-                j++;
-            }
-            if(j<n){
-                nums[i+1] = nums[j];
-                i++;
-                j++;
-                k++;
-            }
-        }
-        return k;
+        // int n=nums.length;
+        // int k=1, i=0, j=i+1;
+        // while(i<n && j<n){
+        //     while(j<n && nums[j] == nums[i]){
+        //         j++;
+        //     }
+        //     if(j<n){
+        //         nums[i+1] = nums[j];
+        //         i++;
+        //         j++;
+        //         k++;
+        //     }
+        // }
+        // return k;
 
         // Optimal Solution
 
@@ -47,19 +47,19 @@ class Solution {
 
 
         // Revision
-        // int i = 0, n = nums.length, count=1;
-        // int j=i+1;
-        // while(i<n && j<n){
-        //     while(nums[i]==nums[j] && j<n){
-        //         j++;
-        //     }
-        //     if(j<n){
-        //         nums[i+1] = nums[j];
-        //         i++;
-        //         j++;
-        //         count++;
-        //     }
-        // }
-        // return count;
+        int i = 0, n = nums.length, count=1;
+        int j=i+1;
+        while(i<n && j<n){
+            while(j<n && nums[i]==nums[j]){
+                j++;
+            }
+            if(j<n){
+                nums[i+1] = nums[j];
+                i++;
+                j++;
+                count++;
+            }
+        }
+        return count;
     }
 }
