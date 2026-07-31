@@ -18,31 +18,48 @@ class Solution {
 
         // Practice Solution
 
-        // int n=nums.length;
-        // int k=1, i=0, j=i+1;
+        int n=nums.length;
+        int k=1, i=0, j=i+1;
+        while(i<n && j<n){
+            while(j<n && nums[j] == nums[i]){
+                j++;
+            }
+            if(j<n){
+                nums[i+1] = nums[j];
+                i++;
+                j++;
+                k++;
+            }
+        }
+        return k;
+
+        // Optimal Solution
+
+        // int n = nums.length;
+        // int j=0;
+        // for(int i=1; i<n; i++){
+        //     if(nums[j] != nums[i]){
+        //         j++;
+        //         nums[j] = nums[i];
+        //     }
+        // }
+        // return j+1;
+
+
+        // Revision
+        // int i = 0, n = nums.length, count=1;
+        // int j=i+1;
         // while(i<n && j<n){
-        //     while(j<n && nums[j] == nums[i]){
+        //     while(nums[i]==nums[j] && j<n){
         //         j++;
         //     }
         //     if(j<n){
         //         nums[i+1] = nums[j];
         //         i++;
         //         j++;
-        //         k++;
+        //         count++;
         //     }
         // }
-        // return k;
-
-        // Optimal Solution
-
-        int n = nums.length;
-        int j=0;
-        for(int i=1; i<n; i++){
-            if(nums[j] != nums[i]){
-                j++;
-                nums[j] = nums[i];
-            }
-        }
-        return j+1;
+        // return count;
     }
 }
