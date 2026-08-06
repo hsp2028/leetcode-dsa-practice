@@ -23,8 +23,27 @@ class Solution {
         traverse(root.right, list);
     }
     public List<Integer> inorderTraversal(TreeNode root) {
+        // List<Integer> list = new ArrayList<>();
+        // traverse(root, list);
+        // return list;
+
+        // Stack Solution
         List<Integer> list = new ArrayList<>();
-        traverse(root, list);
+        Stack<TreeNode> stack = new Stack<>();
+        while(true){
+            if(root!=null){
+                stack.push(root);
+                root = root.left;
+            }
+            else{
+                if(stack.isEmpty()){
+                    break;
+                }
+                root = stack.pop();
+                list.add(root.val);
+                root = root.right;
+            }
+        }
         return list;
     }
 }
