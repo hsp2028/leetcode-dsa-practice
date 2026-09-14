@@ -26,10 +26,15 @@ class Solution {
             inorder(root.right);
         }
     }
+    public int kthSmallest(TreeNode root, int k) {
+        this.k = k;
+        inorder(root);
+        return res;
+    }
     // public void inorder(TreeNode root, List<Integer> list){
+    //     }
     //     if(root == null){
     //         return;
-    //     }
     //     inorder(root.left, list);
     //     list.add(root.val);
     //     inorder(root.right, list);
@@ -39,9 +44,4 @@ class Solution {
     //     inorder(root, list);
     //     return list.get(k-1);
     // }
-    public int kthSmallest(TreeNode root, int k) {
-        this.k = k;
-        inorder(root);
-        return res;
-    }
 }
