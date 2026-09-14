@@ -15,9 +15,6 @@
  */
 class Solution {
     public void insert(TreeNode root, int val){
-        // if(root == null){
-        //     return new TreeNode(val);
-        // }
         TreeNode prev = null;
         TreeNode temp = root;
         while(temp!=null){
