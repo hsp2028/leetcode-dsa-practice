@@ -33,7 +33,7 @@ class Solution {
         if(root.left!=null){
             root.left = null;
         }
-        System.out.println(list.size());
+        // System.out.println(list.size());
         for(int i=1; i<list.size(); i++){
             root.right = list.get(i);
             root = root.right;
