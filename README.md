@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0151-reverse-words-in-a-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0231-power-of-two) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0844-backspace-string-compare) |
 ## Greedy
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0222-count-complete-tree-nodes) |
