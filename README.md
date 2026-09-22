@@ -592,4 +592,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0187-repeated-dna-sequences) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
