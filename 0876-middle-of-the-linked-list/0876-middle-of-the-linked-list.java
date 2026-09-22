@@ -10,30 +10,39 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        ListNode temp = head;
-        int count = 0;
-        while(temp != null){
-            count++;
-            temp = temp.next;
-        }
-        temp = head;
-        // if(count%2 != 0){
-        //     for(int i=0; i<(count/2); i++){
-        //         temp = temp.next;
-        //     }
-        //     head = temp;
-        //     return head;
+        // ListNode temp = head;
+        // int count = 0;
+        // while(temp != null){
+        //     count++;
+        //     temp = temp.next;
         // }
-        // else{
-        //     for(int i=0; i<(count/2); i++){
-        //         temp = temp.next;
-        //     }
-        //     head = temp;
-        //     return head;
+        // temp = head;
+        // // if(count%2 != 0){
+        // //     for(int i=0; i<(count/2); i++){
+        // //         temp = temp.next;
+        // //     }
+        // //     head = temp;
+        // //     return head;
+        // // }
+        // // else{
+        // //     for(int i=0; i<(count/2); i++){
+        // //         temp = temp.next;
+        // //     }
+        // //     head = temp;
+        // //     return head;
+        // // }
+        // for(int i=0; i<(count/2); i++){
+        //     temp = temp.next;
         // }
-        for(int i=0; i<(count/2); i++){
-            temp = temp.next;
+        // return temp;
+
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while(fast!=null && fast.next!=null){
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        return temp;
+        return slow;
     }
 }
