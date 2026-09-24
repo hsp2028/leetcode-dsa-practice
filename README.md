@@ -605,4 +605,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0287-find-the-duplicate-number) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
