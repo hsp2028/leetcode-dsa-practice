@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0907-sum-of-subarray-minimums) |
