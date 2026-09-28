@@ -18,10 +18,6 @@ class Solution {
                 i++;
             }
         }
-        String ans = "";
-        for(char c : str){
-            ans += c;
-        }
-        return ans;
+        return new String(str);
     }
 }
