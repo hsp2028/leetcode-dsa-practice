@@ -8,12 +8,9 @@ class Solution {
             char c = name.charAt(i);
             if(c!=typed.charAt(j)) return false;
             int count1=0; 
-            while(c==typed.charAt(j)){
+            while(j<n2 && c==typed.charAt(j)){
                 j++;
                 count1++;
-                if(j>=n2){
-                    break;
-                }
             }
             i++;
             int count2=0;
