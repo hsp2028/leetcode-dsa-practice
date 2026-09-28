@@ -11,8 +11,11 @@ class Solution {
                     str[j] = str[i];
                     str[i] = t;
                     i++;
+                    j--;
                 }
-                j--;
+                else{
+                    j--;
+                }
             }
             else{
                 i++;
