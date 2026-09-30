@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0832-flipping-an-image) |
 | [1901-find-a-peak-element-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1901-find-a-peak-element-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
 | ------- |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1791-find-center-of-star-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Quicksort
 |  |
 | ------- |
