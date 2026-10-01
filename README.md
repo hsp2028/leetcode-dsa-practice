@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0509-fibonacci-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Array
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
