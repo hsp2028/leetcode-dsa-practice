@@ -15,7 +15,7 @@ class Solution {
             int first = nums[i];
             int sec = target-first;
             if(map.containsKey(sec)){
-                return new int[] {i, map.get(sec)};
+                return new int[] {map.get(sec), i};
             }
 
             map.put(nums[i], i);
