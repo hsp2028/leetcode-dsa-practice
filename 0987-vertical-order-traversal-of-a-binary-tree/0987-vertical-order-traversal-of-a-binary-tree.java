@@ -29,7 +29,7 @@ class Solution {
         q.add(new Pair(root, new int[]{0, 0}));
         while(!q.isEmpty()){
             int n = q.size();
-            for(int i=0; i<n; i++){
+            // for(int i=0; i<n; i++){
                 Pair pair = q.poll();
                 TreeNode node = pair.node;
                 int row = pair.pos[0];
@@ -46,7 +46,7 @@ class Solution {
                 if(node.right!=null){
                     q.add(new Pair(node.right, new int[]{row+1, col+1}));
                 }
-            }
+            // }
         }
         for(Map.Entry<Integer, List<int[]>> entry : map.entrySet()){
             List<Integer> list2 = new ArrayList<>();
