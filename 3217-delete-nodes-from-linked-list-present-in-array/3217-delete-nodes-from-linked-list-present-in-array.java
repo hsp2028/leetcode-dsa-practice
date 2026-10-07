@@ -17,16 +17,14 @@ class Solution {
         }
         ListNode dummy = new ListNode(0);
         dummy.next = head;
-        ListNode temp = head;
-        ListNode prev = dummy;
-        while(temp!=null){
-            if(set.contains(temp.val)){
-                prev.next = temp.next;
-                temp = temp.next;
-                continue;
+        ListNode curr = dummy;
+        while(curr.next!=null){
+            if(set.contains(curr.next.val)){
+                curr.next = curr.next.next;
             }
-            prev = temp;
-            temp = temp.next;
+            else{
+                curr = curr.next;
+            }
         }
         return dummy.next;
     }
