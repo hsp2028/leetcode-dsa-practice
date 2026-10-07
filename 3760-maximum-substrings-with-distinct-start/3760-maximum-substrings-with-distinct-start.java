@@ -1,13 +1,14 @@
 class Solution {
     public int maxDistinct(String s) {
         int n = s.length();
-        HashSet<Character> set = new HashSet<>();
+        // HashSet<Character> set = new HashSet<>();
+        boolean[] visited = new boolean[256];
         int count = 0;
         for(int i=0; i<n; i++){
-            if(!set.contains(s.charAt(i))){
+            if(!visited[s.charAt(i)]){
+                visited[s.charAt(i)] = true;
                 count++;
-            }    
-            set.add(s.charAt(i));
+            }
         }
         return count;
     }
