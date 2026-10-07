@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0904-fruit-into-baskets) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1552-magnetic-force-between-two-balls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
@@ -584,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
