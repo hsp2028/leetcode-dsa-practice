@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0925-long-pressed-name) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
