@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0933-number-of-recent-calls) |
 ## Merge Sort
 |  |
 | ------- |
@@ -672,4 +674,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0455-assign-cookies) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
