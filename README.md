@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0962-maximum-width-ramp) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Recursion
 |  |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Greedy
 |  |
 | ------- |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
 | ------- |
