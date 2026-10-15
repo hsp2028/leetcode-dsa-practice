@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0817-linked-list-components](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0817-linked-list-components) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0735-asteroid-collision) |
+| [0817-linked-list-components](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0817-linked-list-components) |
 | [0832-flipping-an-image](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0904-fruit-into-baskets) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0707-design-linked-list) |
+| [0817-linked-list-components](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
