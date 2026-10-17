@@ -21,6 +21,6 @@ class Solution {
         //     return 0;
         // }
         // return (isNegative) ? (int)-reversed : (int)reversed; 
-        return (int) reversed;
+        return reversed;
     }
 }
