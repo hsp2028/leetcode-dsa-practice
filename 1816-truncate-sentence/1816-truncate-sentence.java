@@ -10,19 +10,29 @@ class Solution {
         // }
         // return ans.toString();
 
-        String ans = "";
-        int count = 0;
-        int i = 0;
-        while(i<s.length() && count<k){
+        for(int i=0; i<s.length(); i++){
             if(s.charAt(i)==' '){
-                count++;
+                k--;
             }
-            if(count>=k){
-                break;
+            if(k==0){
+                return s.substring(0, i);
             }
-            ans += s.charAt(i);
-            i++;
         }
-        return ans;
+        return s;
+
+        // String ans = "";
+        // int count = 0;
+        // int i = 0;
+        // while(i<s.length() && count<k){
+        //     if(s.charAt(i)==' '){
+        //         count++;
+        //     }
+        //     if(count>=k){
+        //         break;
+        //     }
+        //     ans += s.charAt(i);
+        //     i++;
+        // }
+        // return ans;
     }
 }
