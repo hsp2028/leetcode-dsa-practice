@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0925-long-pressed-name) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1816-truncate-sentence](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1816-truncate-sentence) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0455-assign-cookies) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
