@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0925-long-pressed-name) |
 | [0962-maximum-width-ramp](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1669-merge-in-between-linked-lists) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
