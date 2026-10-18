@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0925-long-pressed-name) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1816-truncate-sentence](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1816-truncate-sentence) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1816-truncate-sentence](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1816-truncate-sentence) |
 | [1901-find-a-peak-element-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
