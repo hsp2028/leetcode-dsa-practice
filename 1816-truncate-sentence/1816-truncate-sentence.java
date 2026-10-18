@@ -1,17 +1,28 @@
 class Solution {
     public String truncateSentence(String s, int k) {
-        String[] str = s.split(" ");
+        // String[] str = s.split(" ");
         // StringBuffer ans = new StringBuffer();
-        String ans = "";
-        for(int i=0; i<k; i++){
-            // ans.append(str[i]);
-            ans += str[i];
-            if(i!=k-1){
-                // ans.append(" ");
-                ans += " ";
-            }
-        }
+        // for(int i=0; i<k; i++){
+        //     ans.append(str[i]);
+        //     if(i!=k-1){
+        //         ans.append(" ");
+        //     }
+        // }
         // return ans.toString();
+
+        String ans = "";
+        int count = 0;
+        int i = 0;
+        while(i<s.length() && count<k){
+            if(s.charAt(i)==' '){
+                count++;
+            }
+            if(count>=k){
+                break;
+            }
+            ans += s.charAt(i);
+            i++;
+        }
         return ans;
     }
 }
