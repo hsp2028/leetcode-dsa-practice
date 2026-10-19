@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0347-top-k-frequent-elements) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0239-sliding-window-maximum) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
