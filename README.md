@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1816-truncate-sentence](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1816-truncate-sentence) |
 | [1901-find-a-peak-element-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2000-reverse-prefix-of-word](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
