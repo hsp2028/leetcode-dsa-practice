@@ -28,7 +28,9 @@ class Solution {
         // return ans;
 
         // Using HashMap
-
+        if(nums1.length>nums2.length){
+            return intersect(nums2, nums1);
+        }
         HashMap<Integer, Integer> map = new HashMap<>();
         for(int num : nums1){
             map.put(num, map.getOrDefault(num, 0)+1);
