@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1816-truncate-sentence](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1816-truncate-sentence) |
+| [2000-reverse-prefix-of-word](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2000-reverse-prefix-of-word) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [2000-reverse-prefix-of-word](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0962-maximum-width-ramp) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2000-reverse-prefix-of-word](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2487-remove-nodes-from-linked-list) |
