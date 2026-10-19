@@ -11,27 +11,42 @@ class Solution {
         // }
         // return false;
 
+        // Bruteforce 
+        // int n = nums.length;
+        // HashMap<Integer, List<Integer>> map = new HashMap<>();
+        // for(int i=0; i<n; i++){
+        //     if(map.containsKey(nums[i])){
+        //         List<Integer> idx = map.get(nums[i]);
+        //         idx.add(i);
+        //         map.put(nums[i], idx);
+        //     }
+        //     else{
+        //         List<Integer> idx = new ArrayList<>();
+        //         idx.add(i);
+        //         map.put(nums[i], idx);
+        //     }
+        // }
+        // for(List<Integer> list : map.values()){
+        //     if(list.size()>=2){
+        //         for(int i=0; i<list.size()-1; i++){
+        //             if(Math.abs(list.get(i)-list.get(i+1))<=k){
+        //                 return true;
+        //             }
+        //         }
+        //     }
+        // }
+        // return false;
+
+        // Using HashSet
         int n = nums.length;
-        HashMap<Integer, List<Integer>> map = new HashMap<>();
+        HashSet<Integer> set = new HashSet<>();
         for(int i=0; i<n; i++){
-            if(map.containsKey(nums[i])){
-                List<Integer> idx = map.get(nums[i]);
-                idx.add(i);
-                map.put(nums[i], idx);
+            if(set.contains(nums[i])){
+                return true;
             }
-            else{
-                List<Integer> idx = new ArrayList<>();
-                idx.add(i);
-                map.put(nums[i], idx);
-            }
-        }
-        for(List<Integer> list : map.values()){
-            if(list.size()>=2){
-                for(int i=0; i<list.size()-1; i++){
-                    if(Math.abs(list.get(i)-list.get(i+1))<=k){
-                        return true;
-                    }
-                }
+            set.add(nums[i]);
+            if(set.size()>k){
+                set.remove(nums[i-k]);
             }
         }
         return false;
