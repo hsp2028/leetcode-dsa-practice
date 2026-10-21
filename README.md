@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0509-fibonacci-number) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Array
 |  |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Prefix Sum
 |  |
 | ------- |
