@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3206-alternating-groups-i](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3206-alternating-groups-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Prefix Sum
 |  |
 | ------- |
