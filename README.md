@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3206-alternating-groups-i](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3206-alternating-groups-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3206-alternating-groups-i](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3206-alternating-groups-i) |
 ## Prefix Sum
 |  |
 | ------- |
