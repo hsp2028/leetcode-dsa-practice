@@ -15,24 +15,38 @@
  */
 class Solution {
     public int sumOfLeftLeaves(TreeNode root) {
+        // Bruteforce Solution
+        // int sum = 0;
+        // Queue<TreeNode> q = new LinkedList<>();
+        // q.add(root);
+        // while(!q.isEmpty()){
+        //     int n = q.size();
+        //     for(int i=0; i<n; i++){
+        //         TreeNode node = q.poll();
+        //         if(node.left!=null && node.left.left==null && node.left.right==null){
+        //             sum += node.left.val;
+        //         }
+        //         if(node.left!=null){
+        //             q.add(node.left);
+        //         }
+        //         if(node.right!=null){
+        //             q.add(node.right);
+        //         }
+        //     }
+        // }
+        // return sum;
+
+        // Optimal Solution
+        if(root==null) return 0;
+
         int sum = 0;
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
-        while(!q.isEmpty()){
-            int n = q.size();
-            for(int i=0; i<n; i++){
-                TreeNode node = q.poll();
-                if(node.left!=null && node.left.left==null && node.left.right==null){
-                    sum += node.left.val;
-                }
-                if(node.left!=null){
-                    q.add(node.left);
-                }
-                if(node.right!=null){
-                    q.add(node.right);
-                }
-            }
+        if(root.left!=null && root.left.left==null && root.left.right==null){
+            sum += root.left.val;
         }
+
+        sum += sumOfLeftLeaves(root.left);
+        sum += sumOfLeftLeaves(root.right);
+
         return sum;
     }
 }
