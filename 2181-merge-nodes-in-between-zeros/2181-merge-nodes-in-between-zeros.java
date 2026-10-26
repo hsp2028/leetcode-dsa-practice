@@ -10,22 +10,39 @@
  */
 class Solution {
     public ListNode mergeNodes(ListNode head) {
-        ListNode temp = head;
-        ListNode dummy = new ListNode(0);
-        ListNode t = dummy;
-        int sum = 0;
-        while(temp!=null){
-            if(temp.val==0){
-                ListNode nextNode = new ListNode(sum);
-                t.next = nextNode;
-                t = t.next;
-                sum = 0;
+        // ListNode temp = head;
+        // ListNode dummy = new ListNode(0);
+        // ListNode t = dummy;
+        // int sum = 0;
+        // while(temp!=null){
+        //     if(temp.val==0){
+        //         ListNode nextNode = new ListNode(sum);
+        //         t.next = nextNode;
+        //         t = t.next;
+        //         sum = 0;
+        //     }
+        //     else{
+        //         sum += temp.val;
+        //     }
+        //     temp = temp.next;
+        // }
+        // return dummy.next.next;
+        
+        // Optimal Solution
+        ListNode modify = head.next;
+        ListNode nextSum = modify;
+
+        while(nextSum!=null){
+            int sum = 0;
+            while(nextSum.val!=0){
+                sum += nextSum.val;
+                nextSum = nextSum.next;
             }
-            else{
-                sum += temp.val;
-            }
-            temp = temp.next;
+            modify.val = sum;
+            nextSum = nextSum.next;
+            modify.next = nextSum;
+            modify = modify.next;
         }
-        return dummy.next.next;
+        return head.next;
     }
 }
