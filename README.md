@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Greedy
 |  |
 | ------- |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Design
