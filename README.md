@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0876-middle-of-the-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
