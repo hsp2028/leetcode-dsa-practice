@@ -22,16 +22,7 @@ class Solution {
         while(second!=null){
             int a = first.val;
             int b = second.val;
-            // if(a>b){
-            //     int gcd = findGCD(a, b);
-            //     ListNode newNode = new ListNode(gcd, first.next);
-            //     first.next = newNode;
-            // } 
-            // else{
-            //     int gcd = findGCD(b, a);
-            //     ListNode newNode = new ListNode(gcd, first.next);
-            //     first.next = newNode;
-            // }
+        
             int gcd = findGCD(a, b);
             ListNode newNode = new ListNode(gcd, first.next);
             first.next = newNode;
