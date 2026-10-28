@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1816-truncate-sentence) |
 | [1901-find-a-peak-element-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1552-magnetic-force-between-two-balls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
