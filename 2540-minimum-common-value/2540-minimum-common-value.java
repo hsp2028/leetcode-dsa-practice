@@ -5,8 +5,6 @@ class Solution {
         if(n1<n2){
             getCommon(nums2, nums1);
         }
-        System.out.println(n1);
-        System.out.println(n2);
         int i = 0;
         int j = 0;
         while(j<n2 && i<n1){
