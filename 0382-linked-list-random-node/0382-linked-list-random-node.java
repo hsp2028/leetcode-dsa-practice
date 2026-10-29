@@ -15,15 +15,28 @@ class Solution {
     }
     
     public int getRandom() {
-        ListNode temp = head;
-        List<ListNode> list = new ArrayList<>();
-        while(temp!=null){
-            list.add(temp);
-            temp = temp.next;
-        }
+        // ListNode temp = head;
+        // List<ListNode> list = new ArrayList<>();
+        // while(temp!=null){
+        //     list.add(temp);
+        //     temp = temp.next;
+        // }
+        // Random rand = new Random();
+        // int randomIndex = rand.nextInt(list.size());
+        // return list.get(randomIndex).val;
+
+        ListNode curr = this.head;
         Random rand = new Random();
-        int randomIndex = rand.nextInt(list.size());
-        return list.get(randomIndex).val;
+        int choosenVal = curr.val;
+        int count = 1;
+        while(curr!=null){
+            if(rand.nextInt(count)==0){
+                choosenVal = curr.val;
+            }
+            count++;
+            curr = curr.next;
+        }
+        return choosenVal;
     }
 }
 
