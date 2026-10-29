@@ -10,8 +10,10 @@
  */
 class Solution {
     ListNode head;
+    Random rand;
     public Solution(ListNode head) {
         this.head = head;
+        this.rand = new Random();
     }
     
     public int getRandom() {
@@ -26,7 +28,6 @@ class Solution {
         // return list.get(randomIndex).val;
 
         ListNode curr = this.head;
-        Random rand = new Random();
         int choosenVal = curr.val;
         int count = 1;
         while(curr!=null){
