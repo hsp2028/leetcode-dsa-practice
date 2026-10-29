@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0268-missing-number) |
+| [0382-linked-list-random-node](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0382-linked-list-random-node) |
 | [0509-fibonacci-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0509-fibonacci-number) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0382-linked-list-random-node) |
 | [0707-design-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0817-linked-list-components) |
@@ -774,4 +776,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
