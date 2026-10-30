@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1470-shuffle-the-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1470-shuffle-the-array) |
+| [1472-design-browser-history](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1552-magnetic-force-between-two-balls) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0962-maximum-width-ramp) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1472-design-browser-history](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1472-design-browser-history) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1472-design-browser-history](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1472-design-browser-history) |
 ## Merge Sort
 |  |
 | ------- |
@@ -771,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1472-design-browser-history) |
 ## DP on Trees
 |  |
 | ------- |
@@ -787,4 +792,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0382-linked-list-random-node) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
