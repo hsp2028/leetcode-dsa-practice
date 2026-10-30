@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [1670-design-front-middle-back-queue](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1816-truncate-sentence) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1472-design-browser-history](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1669-merge-in-between-linked-lists) |
+| [1670-design-front-middle-back-queue](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2074-reverse-nodes-in-even-length-groups) |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1670-design-front-middle-back-queue) |
 ## Merge Sort
 |  |
 | ------- |
@@ -776,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1670-design-front-middle-back-queue) |
 ## DP on Trees
 |  |
 | ------- |
@@ -796,4 +801,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
