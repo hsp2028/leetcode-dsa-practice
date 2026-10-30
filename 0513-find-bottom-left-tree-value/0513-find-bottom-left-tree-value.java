@@ -15,24 +15,39 @@
  */
 class Solution {
     public int findBottomLeftValue(TreeNode root) {
+        // Queue<TreeNode> q = new LinkedList<>();
+        // q.add(root);
+        // List<Integer> list = new ArrayList<>();
+        // while(!q.isEmpty()){
+        //     int n = q.size();
+        //     for(int i=0; i<n; i++){
+        //         TreeNode node = q.poll();
+        //         if(i==0){
+        //             list.add(node.val);
+        //         }
+        //         if(node.left!=null){
+        //             q.add(node.left);
+        //         }
+        //         if(node.right!=null){
+        //             q.add(node.right);
+        //         }
+        //     }
+        // }
+        // return list.get(list.size()-1);
+
+        // Optimize Code 
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
-        List<Integer> list = new ArrayList<>();
+        TreeNode node = root;
         while(!q.isEmpty()){
-            int n = q.size();
-            for(int i=0; i<n; i++){
-                TreeNode node = q.poll();
-                if(i==0){
-                    list.add(node.val);
-                }
-                if(node.left!=null){
-                    q.add(node.left);
-                }
-                if(node.right!=null){
-                    q.add(node.right);
-                }
+            node = q.poll();
+            if(node.right!=null){
+                q.add(node.right);
+            }
+            if(node.left!=null){
+                q.add(node.left);
             }
         }
-        return list.get(list.size()-1);
+        return node.val;
     }
 }
