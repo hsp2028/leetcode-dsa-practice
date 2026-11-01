@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1797-design-authentication-manager](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1797-design-authentication-manager) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2540-minimum-common-value](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2540-minimum-common-value) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-merge-in-between-linked-lists](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1669-merge-in-between-linked-lists) |
 | [1670-design-front-middle-back-queue](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1797-design-authentication-manager](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1797-design-authentication-manager) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1670-design-front-middle-back-queue) |
+| [1797-design-authentication-manager](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1797-design-authentication-manager) |
 ## Merge Sort
 |  |
 | ------- |
@@ -818,4 +821,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1472-design-browser-history](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1670-design-front-middle-back-queue) |
+| [1797-design-authentication-manager](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
