@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0735-asteroid-collision) |
 | [0817-linked-list-components](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0817-linked-list-components) |
 | [0832-flipping-an-image](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0832-flipping-an-image) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
 |  |
