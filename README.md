@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1470-shuffle-the-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1472-design-browser-history) |
+| [1480-running-sum-of-1d-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1552-magnetic-force-between-two-balls) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
 |  |
 | ------- |
