@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0509-fibonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1470-shuffle-the-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1670-design-front-middle-back-queue) |
 | [1797-design-authentication-manager](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1797-design-authentication-manager) |
@@ -804,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1670-design-front-middle-back-queue) |
 ## DP on Trees
