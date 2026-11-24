@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2540-minimum-common-value) |
 | [3206-alternating-groups-i](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3206-alternating-groups-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1480-running-sum-of-1d-array) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Trie
 |  |
 | ------- |
