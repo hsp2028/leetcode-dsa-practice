@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3707-equal-score-substrings](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3707-equal-score-substrings) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3707-equal-score-substrings](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3707-equal-score-substrings) |
 | [3903-smallest-stable-index-i](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3903-smallest-stable-index-i) |
 ## Trie
 |  |
