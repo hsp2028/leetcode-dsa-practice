@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3903-smallest-stable-index-i](https://github.com/hsp2028/leetcode-dsa-practice/tree/master/3903-smallest-stable-index-i) |
 ## Trie
 |  |
 | ------- |
