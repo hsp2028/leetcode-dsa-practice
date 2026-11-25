@@ -25,11 +25,6 @@ class Solution {
         for(int i=1; i<n; i++){
             prefixSum[i] = prefixSum[i-1]+s.charAt(i)-'a'+1;
         }
-        // int[] suffixSum = new int[n];
-        // suffixSum[n-1] = s.charAt(n-1)-'a'+1;
-        // for(int i=n-2; i>=0; i--){
-        //     suffixSum[i] = suffixSum[i+1]+s.charAt(i)-;
-        // }
         int total = prefixSum[n-1];
         for(int i=0; i<n; i++){
             if(prefixSum[i]==total-prefixSum[i]){
